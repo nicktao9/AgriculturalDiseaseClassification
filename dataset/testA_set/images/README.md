@@ -1,0 +1,1 @@
+all  testA images
